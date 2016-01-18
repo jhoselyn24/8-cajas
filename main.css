@@ -1,0 +1,41 @@
+.uno{
+	border: 2px solid black;
+	height: 100px;
+	width: 100px;
+	display: block;
+	margin: 10px;
+	background: silver;
+}
+.dos{
+	border: 2px solid black;
+	width: 350px;
+	display: block;
+	background: silver;
+	padding: 10px;
+	margin: 20px 10px 10px;
+}
+.adentro{
+	border: 2px solid black;
+	height: 100px;
+	width: 100px;
+	display: inline-block;
+	margin: 5px 5px 2px;
+
+}
+.tres{
+	border: 2px solid black;
+	height: 100px;
+	width: 100px;
+	display: inline-block;
+	margin: 10px;
+	background: silver;
+
+}
+.cuatro{
+	border: 2px solid black;
+	height: 100px;
+	width: 100px;
+	display: block;
+	margin: 10px;
+    background: silver;
+}
